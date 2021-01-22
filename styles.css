@@ -1,0 +1,45 @@
+ /* .border1 
+{
+    
+    background-image: url(3.jpg);
+    width: 100%;
+    background-size: cover;
+    position: relative;
+    float: left;
+ }  */
+.footer 
+{   
+    background-size: cover;
+    opacity:initial;
+    background-image: url(3.jpg);
+    background-color:lightsalmon;
+    position: relative;
+    left:0;
+    bottom:0;
+    width:100%;
+    float: left;
+    padding-top: 60px;
+}
+span.tab-space
+{ padding-left: 1em;}
+.section1,.section2,.section3 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.book{ 
+
+    background-image: url('./bg2.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 500px;
+    background-attachment:fixed;
+ } 
+ .jumbotron 
+{
+	background-image: url("./bg1.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+}
+.navbar{
+    height:90px;
+}
